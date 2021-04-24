@@ -17,7 +17,7 @@ Methods for use are the following:
 
 *Example:*
 
-Let's say we would like to find p-representation of eigen state n = 2, l = 1, m = 0. Next find the TDNE, compute Hess matrix and finally generate code for TDME. We do the following:
+Let's say we would like to find p-representation of eigen state n = 2, l = 1, m = 0. Next find the TDME, compute Hess matrix and finally generate code for TDME. We do the following:
 ``` Maple
 # Wavefunction
 expression := p_nlm(2, 1, 0)
